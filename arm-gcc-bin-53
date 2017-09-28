@@ -1,3 +1,4 @@
+# Install arm-gcc-none-eabi 5.3.1 for Particle.io use (6 not supported)
 require 'formula'
 
 class ArmGccBin53 < Formula
